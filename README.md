@@ -26,6 +26,13 @@ Each day, I build something meaningful — from CLI tools to games, converters, 
 | ✅ | Day 8: Quiz App  
 &nbsp;&nbsp;&nbsp;&nbsp;[• Local (JSON)](Day08_QuizApp/08_1_Local_Quiz.py)  
 &nbsp;&nbsp;&nbsp;&nbsp;[• API-based (Open Trivia DB)](Day08_QuizApp/08_2_Trivia_Quiz_API.py) | Completed |
+| ✅ | Day 9: File Organizer  
+• [Basic Version](Day09_FileOrganizer/09_1_Basic_Organizer.py)  
+• [Advanced Version](Day09_FileOrganizer/09_2_Advanced_Organizer.py) | Completed |
+| ✅ | Day 10: Notepad App  
+• [Basic Version](Day10_Notepad/10_1_Basic_Notepad.py)  
+• [Enhanced Version](Day10_Notepad/10_2_Enhanced_Notepad.py) | Completed |
+
 
 ---
 
@@ -55,8 +62,6 @@ A consolidated **CLI menu-driven toolkit** combining all apps from Days 1–7 in
 
 ## 🛣️ What’s Next?
 
-| 🔜 | Day 9: Coming Soon |
-| 🔜 | Days 10–21: In Progress |
 
 Future topics will include:
 - GUI (Tkinter)
