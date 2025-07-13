@@ -32,6 +32,10 @@ Each day, I build something meaningful — from CLI tools to games, converters, 
 | ✅ | Day 10: Notepad App  
 • [Basic Version](Day10_Notepad/10_1_Basic_Notepad.py)  
 • [Enhanced Version](Day10_Notepad/10_2_Enhanced_Notepad.py) | Completed |
+| ✅ | Day 11: Expense Tracker  
+• [Basic Version](Day11_ExpenseTracker/11_1_Basic_Expense_Tracker.py)  
+• [Advanced Version](Day11_ExpenseTracker/11_2_Advanced_Expense_Tracker.py) | Completed |
+
 
 
 ---
