@@ -35,6 +35,9 @@ Each day, I build something meaningful — from CLI tools to games, converters, 
 | ✅ | Day 11: Expense Tracker  
 • [Basic Version](Day11_ExpenseTracker/11_1_Basic_Expense_Tracker.py)  
 • [Advanced Version](Day11_ExpenseTracker/11_2_Advanced_Expense_Tracker.py) | Completed |
+| ✅ | Day 12: Contact Book  
+• [Basic Version](Day12_ContactBook/12_1_Basic_Contact_Book.py)  
+• [Advanced Version](Day12_ContactBook/12_2_Advanced_Contact_Book.py) | Completed |
 
 
 
